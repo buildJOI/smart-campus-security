@@ -1,10 +1,5 @@
 # Smart Campus Security System
 
-![GitHub stars](https://img.shields.io/github/stars/buildJOI/smart-campus-security?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/buildJOI/smart-campus-security?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/buildJOI/smart-campus-security?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/buildJOI/smart-campus-security?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/buildJOI/smart-campus-security?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Nano-green?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red?style=for-the-badge&logo=opencv)
