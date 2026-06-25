@@ -8,12 +8,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/buildJOI/smart-campus-security)
 ![GitHub repo size](https://img.shields.io/github/repo-size/buildJOI/smart-campus-security)
 
-![GitHub stars](https://img.shields.io/github/stars/buildJOI/smart-campus-security?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/buildJOI/smart-campus-security?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/buildJOI/smart-campus-security?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/buildJOI/smart-campus-security?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/buildJOI/smart-campus-security?style=for-the-badge)
-
 Overview
 Smart Campus Security System is an AI-powered surveillance solution designed for educational institutions and restricted environments. The system utilizes YOLOv8 Nano and OpenCV to perform real-time object detection, monitor restricted areas, detect unauthorized access, capture evidence, and maintain security logs.
 
