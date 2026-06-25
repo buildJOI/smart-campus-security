@@ -284,6 +284,7 @@ Event Type
 - Jithin Jeevan
 - Godphine A C
 - Karthika Mahesh
+- Sooraj S S
 
 ---
 
